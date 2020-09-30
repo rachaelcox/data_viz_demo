@@ -1,4 +1,4 @@
-# Code Along Webinar: Data visualization in R 
+# Code Along Webinar: Data Visualization in R 
 Repository for the data visualization Code Along webinar
 
 # Accessing the RStudio Cloud server
