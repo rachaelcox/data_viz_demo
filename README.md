@@ -4,7 +4,7 @@ Repository for the data visualization Code Along webinar
 # Accessing the RStudio Cloud server
 1. Navigate to: https://rstudio.cloud/spaces/93472/join?access_code=Sk6M1%2FVH3gAfIQ0lINlxEdfQCttjuAjjfzUDDZPA
 2. Click 'Log in with Google' for fast/easy access
-3. In the left panel, select 'codealong' under 'Spaces'
+3. In the left panel, select 'CodeAlong_Fall2020' under 'Spaces'
 4. Select '[Assignment] DataViz' (can take a sec to load)
 5. Double-click 'dataviz_codealong.Rmd' in bottom right panel.
 
